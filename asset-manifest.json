@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/emdsolution/static/css/main.c2dcbdd8.css",
-    "main.js": "/emdsolution/static/js/main.3da59cb0.js",
+    "main.css": "/emdsolution/static/css/main.eba50077.css",
+    "main.js": "/emdsolution/static/js/main.33f3604f.js",
     "static/media/bg.jpg": "/emdsolution/static/media/bg.31db5a2e25009ee95684.jpg",
     "static/media/contact_us.jpg": "/emdsolution/static/media/contact_us.df8a7cb58a49fe8d17f3.jpg",
     "static/media/hero.svg": "/emdsolution/static/media/hero.69c4336833f3728434f076982930de72.svg",
@@ -9,11 +9,11 @@
     "static/media/Poppins-Medium.ttf": "/emdsolution/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
     "static/media/Poppins-Bold.ttf": "/emdsolution/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
     "index.html": "/emdsolution/index.html",
-    "main.c2dcbdd8.css.map": "/emdsolution/static/css/main.c2dcbdd8.css.map",
-    "main.3da59cb0.js.map": "/emdsolution/static/js/main.3da59cb0.js.map"
+    "main.eba50077.css.map": "/emdsolution/static/css/main.eba50077.css.map",
+    "main.33f3604f.js.map": "/emdsolution/static/js/main.33f3604f.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2dcbdd8.css",
-    "static/js/main.3da59cb0.js"
+    "static/css/main.eba50077.css",
+    "static/js/main.33f3604f.js"
   ]
 }
